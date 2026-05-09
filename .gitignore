@@ -1,0 +1,35 @@
+# === 私密数据：不提交 GitHub ===
+# 你的个人身份/偏好文件（运行时生成，模板版本已创建）
+.cline_memory/core_rules/identity.json
+.cline_memory/core_rules/tech-stack.json
+.cline_memory/core_rules/coding-standards.md
+
+# 用户画像（AI 自动观察记录，含个人特征）
+.cline_memory/user_profile/inferred_traits.json
+
+# 记忆数据库（会积累隐私内容）
+.cline_memory/index/category_index.json
+.cline_memory/index/vector_index.json
+.cline_memory/evolution_log/
+.cline_memory/memory_state.db
+
+# 任务记录（含你的日常请求和产出）
+tasks/
+
+# 技能使用记录（含文件路径等上下文）
+skills/skill-manifest.json
+
+# MCP 配置（可能含 API Key）
+mcp_config/
+
+# Git 自身
+.git/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+*~
+# ============================

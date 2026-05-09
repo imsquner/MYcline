@@ -1,0 +1,16 @@
+{
+  "_说明": "复制此文件为 identity.json，填入你的信息。此模板文件提交到 GitHub，identity.json 被 .gitignore 排除。",
+  "name": "你的名字",
+  "alias": "你的昵称",
+  "role": "你的角色（如 前端开发者/全栈工程师/产品经理）",
+  "system_version": "MYcline v1.0",
+  "base_model": "DeepSeek-v4-flash / 你的模型",
+  "platform": "Cline 中文版 (VS Code)",
+  "preferences": {
+    "language": "zh-CN",
+    "code_style": "你的代码风格偏好",
+    "comment_language": "中文 / English"
+  },
+  "last_updated": "YYYY-MM-DDTHH:MM:SS+08:00",
+  "history": []
+}

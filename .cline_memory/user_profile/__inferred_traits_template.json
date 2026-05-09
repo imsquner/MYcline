@@ -1,0 +1,25 @@
+{
+  "_说明": "复制此文件为 inferred_traits.json。此文件由 Cline 在对话中自动观察并更新，无需手动填写。",
+  "language_style": {
+    "observed_patterns": [],
+    "_可观察内容": ["用词习惯", "句式偏好", "修辞特点"]
+  },
+  "common_interests": {
+    "observed_topics": [],
+    "_可观察内容": ["常讨论的技术领域", "个人爱好", "关注方向"]
+  },
+  "personal_experiences": {
+    "known_facts": [],
+    "_可观察内容": ["工作背景", "学历经历", "项目经验"]
+  },
+  "expectations_of_ai": {
+    "observed_preferences": [],
+    "_可观察内容": ["对AI功能的期望", "反对/不喜欢的行为", "长期目标"]
+  },
+  "communication_preferences": {
+    "observed": [],
+    "_可观察内容": ["喜欢结构化回复", "喜欢先确认再执行", "喜欢简洁/详细"]
+  },
+  "last_updated": "YYYY-MM-DDTHH:MM:SS+08:00",
+  "observation_history": []
+}

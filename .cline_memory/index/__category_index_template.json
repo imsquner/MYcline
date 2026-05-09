@@ -1,0 +1,45 @@
+{
+  "_说明": "复制此文件为 category_index.json。此模板提交到 GitHub，实际文件被 .gitignore 排除。",
+  "version": "1.0",
+  "categories": {
+    "coding": {
+      "frontend": [],
+      "backend": [],
+      "debug": [],
+      "refactor": [],
+      "script": []
+    },
+    "writing": {
+      "article": [],
+      "documentation": [],
+      "translate": [],
+      "summary": []
+    },
+    "analysis": {
+      "code-review": [],
+      "data-analysis": [],
+      "architecture": [],
+      "evaluate": [],
+      "image-analysis": []
+    },
+    "learning": {
+      "explain": [],
+      "tutorial": [],
+      "research": []
+    },
+    "personal": {
+      "notes": [],
+      "decision": [],
+      "plan": []
+    },
+    "system": {
+      "setup": [],
+      "config": [],
+      "deploy": []
+    },
+    "other": {
+      "general": []
+    }
+  },
+  "last_updated": "YYYY-MM-DDTHH:MM:SS+08:00"
+}

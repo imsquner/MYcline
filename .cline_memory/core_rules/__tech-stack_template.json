@@ -1,0 +1,18 @@
+{
+  "_说明": "复制此文件为 tech-stack.json，填入你的技术栈偏好。此模板文件提交到 GitHub。",
+  "languages": ["JavaScript", "TypeScript", "Python"],
+  "frameworks": ["React", "Node.js", "Vue"],
+  "tools": ["Git", "npm", "VS Code"],
+  "preferences": {
+    "code_style": "clean, modular, 中文注释",
+    "testing": ["Jest", "Vitest"],
+    "formatting": {
+      "indent": "spaces",
+      "indent_size": 2,
+      "semicolons": true,
+      "quotes": "single"
+    }
+  },
+  "last_updated": "YYYY-MM-DDTHH:MM:SS+08:00",
+  "history": []
+}
