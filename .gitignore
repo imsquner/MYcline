@@ -19,6 +19,12 @@ tasks/
 # 技能使用记录（含文件路径等上下文）
 skills/skill-manifest.json
 
+# === 硬件设计工作区（含公司内部资料）===
+CIMC-Hardware-Workspace/
+
+# === 理论宣讲大赛工作区（含个人身份信息）===
+理论宣讲大赛工作区/
+
 # MCP 配置（可能含 API Key）
 mcp_config/
 
