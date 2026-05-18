@@ -4,7 +4,7 @@
 
 ## 你的身份
 
-- **用户**: [你的名字] ([你的昵称])  ← 在 core_rules/identity.json 中设置
+- **用户**: 高子明 (imsquner)  ← 在 core_rules/identity.json 中设置
 - **系统版本**: MYcline v1.0 (基于 Cline 中文版 + DeepSeek-v4-flash)
 - **个人 AI 定位**: 私人编程/写作/分析/学习助手，长期自进化
 

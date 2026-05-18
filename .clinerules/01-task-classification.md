@@ -17,6 +17,8 @@
 | **learning** | 解释、教程、概念、研究、了解 | explain, tutorial, research |
 | **personal** | 笔记、决策、规划、日程、想法 | notes, decision, plan |
 | **system** | 配置、安装、部署、环境、MCP | setup, config, deploy |
+| **self-evolve** | 自进化、迭代、自我分析、规则优化、记忆压缩 | system-evolve, rule-update, memory-audit, skill-upgrade |
+| **multimodal** | 图像理解、语音输入、语音输出、OCR、文档识别 | image-vqa, speech-asr, speech-tts, ocr, document-analysis |
 | **other** | 以上无法覆盖的请求 | general |
 
 ### 第二步：加载对应 Prompt
