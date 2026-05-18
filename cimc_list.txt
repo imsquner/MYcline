@@ -1,0 +1,15 @@
+.github
+1 - 2026年CIMC工业嵌入式系统开发方向（试）初赛 - 样题6390795525247847584908920.pdf
+2 - 2026年CIMC工业嵌入式系统开发方向（试）初赛说明202603066390842202611750634680610.pdf
+2026年CIMC工业嵌入式系统开发 - 初赛 硬件设计题目说明6391275109988350079992779.pdf
+GD30AD3344_Datasheet_Rev1.1.pdf
+GD30AD3344_EVB_DemoSuites_ExtRef
+GD30AD3344_EVB用户指南_Rev.A.pdf
+GD30AD3344_standard_peripheral63889578722827917290554386391275145603394276472381 (1)
+GD30DC1354_Datasheet_Rev1.0.pdf
+GD32F470 Development Kit V2.0 原理图.pdf
+hardware.md
+PCB
+工业嵌入式系统开发方向_校赛评分细则.pdf
+工业嵌入式系统开发方向_校赛评分表.pdf
+工业嵌入式系统开发方向_校赛赛题.pdf
